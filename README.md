@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 I'm full-stack web developer
 
-![GitHub followers](https://img.shields.io/github/followers/CrackiGuy?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/devnla?label=Follow&style=social)
 <a href="https://www.facebook.com/profile.php?id=100010380070025" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://dev.to/crackiguy" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
